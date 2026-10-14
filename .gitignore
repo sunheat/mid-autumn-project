@@ -1,0 +1,24 @@
+# Rendered movies and delivery packages
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.zip
+
+# Python environments and bytecode
+.venv/
+__pycache__/
+*.pyc
+
+# Kdenlive caches and automatic backups; titles are editable sources
+cachefiles/
+proxy/
+thumbs/
+.backup/
+*.kdenlive~
+*_backup.kdenlive
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
